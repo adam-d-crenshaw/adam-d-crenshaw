@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam
 
-<!--
-**adam-d-crenshaw/adam-d-crenshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Open to Work
+Actively seeking **Business Intelligence / Data Analyst** roles (remote preferred).
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL • Python • Power BI • Excel • DAX  
+- Retail analytics & merchandising background  
+- Business Intelligence & Analytics (TripleTen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+Email: adam.d.crenshaw@proton.me
+linkedin.com/in/adamdcrenshaw
