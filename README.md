@@ -10,4 +10,4 @@ Actively seeking **Business Intelligence / Data Analyst** roles (remote preferre
 
 ### 📫 Contact
 Email: adam.d.crenshaw@proton.me
-linkedin.com/in/adamdcrenshaw
+[linkedin.com/in/adamdcrenshaw](url)
